@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x $(find./*-type d) 
+-type d -exec chmod ugo=+x {} \;
