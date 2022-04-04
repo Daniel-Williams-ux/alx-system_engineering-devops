@@ -1,0 +1,15 @@
+total 0
+drwxr-xr-x 1 daniel daniel 512 Apr  4 19:42 .
+drwxr-xr-x 1 daniel daniel 512 Apr  4 06:51 ..
+-rwxr--r-- 1 daniel daniel  32 Apr  4 18:01 0-hello_world
+-rwxr--r-- 1 daniel daniel  28 Apr  4 18:16 1-confused_smiley
+-rwxr--r-- 1 daniel daniel  28 Apr  4 18:24 2-hellofile
+-rwxr--r-- 1 daniel daniel  39 Apr  4 18:31 3-twofiles
+-rwxr--r-- 1 daniel daniel  35 Apr  4 18:37 4-lastlines
+-rwxr--r-- 1 daniel daniel  35 Apr  4 18:42 5-firstlines
+-rwxr--r-- 1 daniel daniel  40 Apr  4 18:46 6-third_line
+-rwxr--r-- 1 daniel daniel  84 Apr  4 19:38 7-file
+-rw-r--r-- 1 daniel daniel  78 Apr  4 19:26 7-file7-file
+-rwxr--r-- 1 daniel daniel  36 Apr  4 19:42 8-cwd_state
+-rw-r--r-- 1 daniel daniel  24 Apr  4 06:56 README.md
+-rw-r--r-- 1 daniel daniel   0 Apr  4 19:42 ls_cwd_content
