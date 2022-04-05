@@ -1,2 +1,2 @@
 #!/bin/bash
-tr A z | c e
+echo 'tr A Z | tr c e'
