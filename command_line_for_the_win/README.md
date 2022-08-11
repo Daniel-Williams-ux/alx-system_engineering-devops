@@ -1,6 +1,6 @@
 # command line for the win
 
-In this project, I began working lcommand line in Bash.
+In this project, I began working command line in Bash.
 
 
 ## Tasks :page_with_curl:
